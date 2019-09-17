@@ -1,0 +1,11 @@
+### JetBrains ###
+.idea
+
+### macOS ###
+.DS_Store
+
+### VisualStudioCode ###
+.vscode
+
+### Windows ###
+Thumbs.db
